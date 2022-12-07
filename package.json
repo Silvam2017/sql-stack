@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Silvam2017/sql-stack#readme",
   "dependencies": {
     "console.table": "^0.10.0",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "inquirer": "^7.2.0",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
